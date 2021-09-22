@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yurma", "Yurma\Yurma.csproj", "{73F5AA82-1121-4BD3-9C79-CDFDB9F9FA0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F5AA82-1121-4BD3-9C79-CDFDB9F9FA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F5AA82-1121-4BD3-9C79-CDFDB9F9FA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F5AA82-1121-4BD3-9C79-CDFDB9F9FA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F5AA82-1121-4BD3-9C79-CDFDB9F9FA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AA2C42B-9A83-4EF7-BBB7-EE5FF2301C1F}
+	EndGlobalSection
+EndGlobal
