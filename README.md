@@ -10,12 +10,10 @@
 By: EyezikDev
 
 If someone some how finds this and wants to use it just make sure to make a 
-```token.txt``` and put it along side the ```bot.py``` file.
+```token.txt```.
 
-This bot was made as a side project and is currently inactive. Plan to see it back online soon once I feel like updating it again!
-
+This bot was made as a side project.
 
  Resources: <br> 
- https://github.com/Rapptz/discord.py - Discord.py <br>
- https://github.com/jsondoo/fortnite-discord-bot - Fortnite Bot Sample <br>
- https://github.com/Rapptz/discord-ext-menus - Discord Menus <br>
+Starting Tutorial: https://www.youtube.com/watch?v=e2iaRVf4sho <br>
+Discord.Net: https://github.com/discord-net/Discord.Net
